@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Golang.
 - 📄 Know about my experiences [linkedin page](https://www.linkedin.com/in/denizcamalan/)
-- 📫 How to reach me: [e-mail address](denizcamalann@gmail.com)
+- 📫 How to reach me: [denizcamalann@gmail.com](mailto:denizcamalann@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
