@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Deniz
 
 - 🌱 I’m currently learning Golang.
-- 📄 Know about my experiences [linkedin page](https://www.linkedin.com/in/denizcamalan/)
+- 📄 Know about my experiences on [linkedin page](https://www.linkedin.com/in/denizcamalan/)
 - 📫 How to reach me: [denizcamalann@gmail.com](mailto:denizcamalann@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
