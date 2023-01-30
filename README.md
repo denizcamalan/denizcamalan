@@ -1,6 +1,7 @@
 ### Hi 👋 I'm Deniz
 
-- 🌱 I’m currently learning Golang.
+- 🌱 I’m currently learning Golang and C#.
+- 💻 I'm currently working as a Fullstack Developer at SoftRobotics.
 - 📄 Know about my experiences on [linkedin page](https://www.linkedin.com/in/denizcamalan/)
 - 📫 How to reach me: [denizcamalann@gmail.com](mailto:denizcamalann@gmail.com)
 
